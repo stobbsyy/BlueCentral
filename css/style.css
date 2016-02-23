@@ -1,0 +1,30 @@
+/*
+blue:rgb(0,168,224)#00A9E0;
+Grey:rgb(121,125,130) #888B8D;
+Cool Grey: rgb(206,215,227) #C98C9C7;
+Rich Black: rgb(0,0,20) #212721;
+Dark Blue: rgb(0,114,188) #005EB8;
+Light Purple: rgb(186, 156, 197)#BA9CC5;
+Purple: rgb(160, 94, 181)#A03EB5;
+Light Teal: rgb(107,202, 186)#6BCABA;
+Teal: rgb(0, 172, 160)#00A499;
+Yellow:rgb(255,229, 57) #FDDA28;
+Orange: rgb(247, 146, 30) #ED8B00;
+*/
+
+body{
+	background:rgb(206,215,227);
+}
+
+header{
+	position:fixed;
+	top:0;
+	left:0;
+	right:0;
+	margin:0;
+	padding:15px;
+	background-color:rgba(0,168,224, 0.6);
+}
+header > img{
+
+}
